@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Role Name
 =========
 
@@ -36,3 +37,7 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+=======
+# ansible-tower-setup
+Based on Ansible Galaxy structure
+>>>>>>> ab794708bcaf431923edde19165dfef5907db72a
